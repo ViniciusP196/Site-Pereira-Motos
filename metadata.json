@@ -1,0 +1,5 @@
+{
+  "name": "Pereira Motos - Product Management",
+  "description": "A dashboard to manage products for a motorcycle shop. Users can add, view, and delete products. It also features an AI-powered tool to generate product descriptions.",
+  "requestFramePermissions": []
+}
